@@ -10,6 +10,7 @@
 <a href="https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-Alpaca.ipynb"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/start free finetune button.png" height="48"></a>
 <a href="https://discord.com/invite/unsloth"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/Discord button.png" height="48"></a>
 <a href="https://docs.unsloth.ai"><img src="https://raw.githubusercontent.com/unslothai/unsloth/refs/heads/main/images/Documentation%20Button.png" height="48"></a>
+</div>
 
 [![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-Model-blue)](https://huggingface.co/Nolan-Robbins/unsloth-gemma-3-4B-customer-support)
 [![Medium Article](https://img.shields.io/badge/Medium-Article-lightgray)](https://medium.com/@nolanrobbins5934/fine-tuning-a-customer-support-model-for-under-10-1b86553e9339)
