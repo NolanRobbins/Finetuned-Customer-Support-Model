@@ -54,9 +54,9 @@ This article covers:
 
 ## 💡 How It Works
 
-The project leverages a combination of efficient fine-tuning techniques, potentially including parameter-efficient fine-tuning (PEFT) methods, to adapt the base Gemma 3.4B model. The core idea is to train only a small subset of the model's parameters or add small, trainable layers, significantly reducing computational costs and training time while achieving impressive performance gains for the specific customer support domain. The Hugging Face `transformers` library and potentially `unsloth` for further optimization are key components in this process.
+The project leverages a combination of efficient fine-tuning techniques, including parameter-efficient fine-tuning (PEFT) methods, to adapt the base Gemma 3:4B model. The core idea is to train only a small subset of the model's parameters or add small, trainable layers, significantly reducing computational costs and training time while achieving impressive performance gains for the specific customer support domain. The Hugging Face `transformers` library and `unsloth` are used for further optimization and are key components in this process.
 
-## 📈 Model Performance (Refer to Medium Article for Details)
+## 📈 Model Performance 
 
 While specific metrics are elaborated in the Medium article, the fine-tuned model demonstrates significant improvements in its ability to generate contextually relevant and accurate responses for customer support queries compared to its base counterpart.
 
