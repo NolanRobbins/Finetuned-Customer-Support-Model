@@ -15,7 +15,7 @@
 [![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-Model-blue)](https://huggingface.co/Nolan-Robbins/unsloth-gemma-3-4B-customer-support)
 [![Medium Article](https://img.shields.io/badge/Medium-Article-lightgray)](https://medium.com/@nolanrobbins5934/fine-tuning-a-customer-support-model-for-under-10-1b86553e9339)
 
-This repository showcases a highly efficient and cost-effective method for fine-tuning Google's Gemma 3.4B language model specifically for customer support applications. By leveraging accessible techniques from Unsloth, we demonstrate how to achieve a powerful, specialized AI assistant capable of handling a wide range of customer inquiries, all for an incredibly low cost.
+This repository showcases a highly efficient and cost-effective method for fine-tuning Google's Gemma 3:4B language model specifically for customer support applications. By leveraging accessible techniques from Unsloth, we demonstrate how to achieve a powerful, specialized AI assistant capable of handling a wide range of customer inquiries, all for an incredibly low cost.
 
 ## 🚀 Quick Start
 
